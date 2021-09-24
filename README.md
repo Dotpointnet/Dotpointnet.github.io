@@ -1,1 +1,1 @@
-# dotpointnet.gihub.io
+# Dotpointnet.github.io
